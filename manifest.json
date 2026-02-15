@@ -1,0 +1,15 @@
+{
+  "short_name": "San Valentin",
+  "name": "Regalo para Moi",
+  "icons": [
+    {
+      "src": "foto.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    }
+  ],
+  "start_url": "index.html",
+  "display": "standalone",
+  "theme_color": "#e91e63",
+  "background_color": "#000000"
+}
